@@ -1,3 +1,5 @@
+#+OPTIONS: tex:imagemagick
+
 * Dollars
 hello $E=mc^2$
 * Parens
