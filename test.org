@@ -1,0 +1,8 @@
+* Dollars
+hello $E=mc^2$
+* Parens
+hello \(E=mc^2\)
+* Double dollars
+hello $$E=mc^2$$
+* Brackets
+hello \[E=mc^2\]
